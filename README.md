@@ -24,13 +24,13 @@ I love exploring real-world security flaws, writing reports, and contributing to
 
 ## Achievements  
 
-- 🐛 Reported security bugs on government and private platforms  
-- 📚 Actively learning **Advanced Web Exploitation**
-- ⚡ Building expertise in **AI + Cybersecurity Integration**  
+- Reported security bugs on government and private platforms  
+- Actively learning **Advanced Web Exploitation**
+- Building expertise in **AI + Cybersecurity Integration**  
 
 ---
 
 ## Connect With Me  
 
-📧 **Email:** yashagarwal0402mpspn@gmail.com  
+**Email:** yashagarwal0402mpspn@gmail.com  
 <a href="https://www.linkedin.com/in/yash-agarwal-5b091a290/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" /></a>  
