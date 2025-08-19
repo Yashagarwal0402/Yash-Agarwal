@@ -17,8 +17,8 @@ I love exploring real-world security flaws, writing reports, and contributing to
 
 ## GitHub Stats  
 
-![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yash-Agarwal&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-Agarwal&layout=compact&theme=radical)  
+![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yashagarwal0402&show_icons=true&theme=radical&count_private=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashagarwal0402&layout=compact&theme=radical)
 
 ---
 
