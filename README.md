@@ -1,9 +1,6 @@
 # Yash Agarwal  
 
-<a href="https://www.linkedin.com/in/yash-agarwal-5b091a290/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" /></a>
-<a href="https://tryhackme.com/p/Yash0402agarwal"><img src="https://tryhackme-badges.s3.amazonaws.com/Yash0402agarwal.png" alt="TryHackMe"></a> 
-
-### 🌐 Cyber Security Enthusiast | 🐞 Bug Hunter | 🔐 Ethical Hacker  
+### Cyber Security Enthusiast | Bug Hunter | Ethical Hacker  
 
 I am **Yash Agarwal**, a **B.Tech Cyber Security student** passionate about **Bug Hunting, Vulnerability Research, and Ethical Hacking**.  
 I love exploring real-world security flaws, writing reports, and contributing to a safer digital world.  
@@ -13,8 +10,8 @@ I love exploring real-world security flaws, writing reports, and contributing to
 ## Skills & Tools  
   
 🔹 **Bug Hunting** – Recon, Vulnerability Assessment, Exploitation  
-🔹 **Languages** – Python, Java, C  
-🔹 **Tools** – Burp Suite, Nmap, Metasploit, Wireshark, OWASP ZAP, Nuclei 
+🔹 **Languages** – Python, Java, C , Golang 
+🔹 **Tools** – Nmap, Metasploit, Wireshark, OWASP ZAP, Nuclei , Sub Finder
 
 ---
 
