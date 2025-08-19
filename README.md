@@ -1,6 +1,7 @@
 # Yash Agarwal  
 
-<a href="https://www.linkedin.com/in/yash-agarwal-5b091a290/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" /></a>  
+<a href="https://www.linkedin.com/in/yash-agarwal-5b091a290/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" /></a>
+<a href="https://tryhackme.com/p/Yash0402agarwal"><img src="https://tryhackme-badges.s3.amazonaws.com/Yash0402agarwal.png" alt="TryHackMe"></a> 
 
 ### 🌐 Cyber Security Enthusiast | 🐞 Bug Hunter | 🔐 Ethical Hacker  
 
