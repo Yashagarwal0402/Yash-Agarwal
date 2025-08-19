@@ -11,11 +11,10 @@ I love exploring real-world security flaws, writing reports, and contributing to
 ---
 
 ## Skills & Tools  
-
-🔹 **Web Security** – XSS, SQLi, CSRF, SSRF, IDOR  
+  
 🔹 **Bug Hunting** – Recon, Vulnerability Assessment, Exploitation  
-🔹 **Languages** – Python, Java, JavaScript, C++  
-🔹 **Tools** – Burp Suite, Nmap, Metasploit, Wireshark, OWASP ZAP  
+🔹 **Languages** – Python, Java, C  
+🔹 **Tools** – Burp Suite, Nmap, Metasploit, Wireshark, OWASP ZAP, Nuclei 
 
 ---
 
@@ -29,12 +28,12 @@ I love exploring real-world security flaws, writing reports, and contributing to
 ## Achievements  
 
 - 🐛 Reported security bugs on government and private platforms  
-- 📚 Actively learning **Advanced Web Exploitation** & **Blockchain Security**  
+- 📚 Actively learning **Advanced Web Exploitation**
 - ⚡ Building expertise in **AI + Cybersecurity Integration**  
 
 ---
 
 ## Connect With Me  
 
-📧 **Email:** your.email@example.com  
+📧 **Email:** yashagarwal0402mpspn@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/yash-agarwal-5b091a290/)  
