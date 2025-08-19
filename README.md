@@ -10,8 +10,8 @@ I love exploring real-world security flaws, writing reports, and contributing to
 ## Skills & Tools  
   
 🔹 **Bug Hunting** – Recon, Vulnerability Assessment, Exploitation  
-🔹 **Languages** – Python, Java, C , Golang 
-🔹 **Tools** – Nmap, Metasploit, Wireshark, OWASP ZAP, Nuclei , Sub Finder
+🔹 **Languages** – Python, Java, C, Golang  
+🔹 **Tools** – Nmap, Metasploit, Wireshark, OWASP ZAP, Nuclei, SubFinder  
 
 ---
 
